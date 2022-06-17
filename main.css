@@ -20,6 +20,15 @@
   }
   .side-by-side li {
     display: inline;
-    position: relative;
+    position: static;
     padding: 10%;
   }
+
+#header {
+    border: 1px solid;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
