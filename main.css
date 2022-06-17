@@ -1,0 +1,25 @@
+#home {
+    border: 2px solid black;
+    background-color: red;
+    color: white;
+    float: inline-start;
+}
+
+
+#signin {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    float: right;
+}
+
+.side-by-side {
+    width: 100%;
+    border: 1px solid black;
+
+  }
+  .side-by-side li {
+    display: inline;
+    position: relative;
+    padding: 10%;
+  }
